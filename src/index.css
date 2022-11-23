@@ -1,0 +1,17 @@
+@import '/node_modules/normalize.css/normalize.css';
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+}
+
+
